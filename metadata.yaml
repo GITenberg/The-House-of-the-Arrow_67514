@@ -1,0 +1,29 @@
+_repo: The-House-of-the-Arrow_67514
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mason, A. E. W. (Alfred Edward Woodley)
+    alias: Mason, Alfred Edward Woodley
+    birthdate: 1865
+    deathdate: 1948
+    gutenberg_agent_id: '1564'
+    url: http://www.gutenberg.org/2009/agents/1564
+    wikipedia: https://en.wikipedia.org/wiki/A._E._W._Mason
+description: ''
+gutenberg_issued: '2022-02-27'
+identifiers:
+  gutenberg: '67514'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=mdp.39015006963899&view=1up&seq=9&skin=2021
+pgterms:marc905: 20220223100259mason
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: Al Haines
+publication_note: United States :George H. Doran Company,1924.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The House of the Arrow
+url: http://www.gutenberg.org/ebooks/67514
